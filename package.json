@@ -1,0 +1,23 @@
+{
+  "name": "startdown",
+  "version": "0.0.0",
+  "description": "Start with markdown in your browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petvas/startdown.git"
+  },
+  "keywords": [
+    "markdown",
+    "browser"
+  ],
+  "author": "Peter Vaszari",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/petvas/startdown/issues"
+  },
+  "homepage": "https://github.com/petvas/startdown#readme"
+}
