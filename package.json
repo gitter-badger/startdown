@@ -1,6 +1,6 @@
 {
   "name": "startdown",
-  "version": "0.0.0",
+  "version": "0.2.0",
   "description": "Start with markdown in your browser.",
   "main": "index.js",
   "scripts": {
