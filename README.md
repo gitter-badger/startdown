@@ -1,4 +1,6 @@
 # startdown.js
+
+[![Join the chat at https://gitter.im/petvas/startdown](https://badges.gitter.im/petvas/startdown.svg)](https://gitter.im/petvas/startdown?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Start with markdown in your browser.
 
 Inspirated by [strapdown](https://github.com/arturadib/strapdown/) Thank You!
